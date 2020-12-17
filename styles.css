@@ -618,10 +618,6 @@ background: #253743;
     border-radius: 10px;
     justify-content: center;
     align-items: center;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
 }
 
 .webpay {
@@ -667,6 +663,7 @@ background: #253743;
   .sobre-kaufparts{
     display:none;
   }
+<<<<<<< HEAD
   .repuestos{
     display:none;
   }
@@ -702,6 +699,8 @@ background: #253743;
   .container-logos {
     align-content: stretch;
   }
+=======
+>>>>>>> 4d908fd289e85ec2fd6df2954f5861b089c33189
   .wtspbutton{
     position: fixed;
     left: 50%;
@@ -968,3 +967,5 @@ background: #253743;
     left:-100px;
   }
 }
+a {text-decoration: none; }
+
