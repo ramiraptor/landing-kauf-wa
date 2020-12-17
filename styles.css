@@ -547,7 +547,7 @@ background: #253743;
 
 .container-logos {
   background: #253743;
-  width: 105%;
+
 }
 
 .brands  {
@@ -576,9 +576,11 @@ background: #253743;
 }
 
 .container-logos {
+  padding-top:40px;
   display: flex;
+
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
 }
 
 .info {
@@ -696,6 +698,9 @@ background: #253743;
 
   .contactanos {
     margin: 20px;
+  }
+  .container-logos {
+    align-content: stretch;
   }
   .wtspbutton{
     position: fixed;
