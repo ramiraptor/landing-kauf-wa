@@ -10,3 +10,17 @@ https://www.figma.com/file/LUGLsoay5wKtmEV1sEgXHW/landing_navidad?node-id=14%3A3
 
 Es una landing que va a vivir en la URL: https://cl.kaufparts.com/repuestos-whatsapp
 
+# Revisión 1 - necesitamos solucionarlos 
+
+adjunto algunos comentarios ue veo en la landing. Quedo atento, saludos!
+- No se genera el texto en el cel
+- img cel está pixelada
+- Texto beneficios no está centrado en fondo blanco
+- imagen persona pixelada
+- Tipografías categorías están muy grandes
+- faltan nombres en algunas
+- Imágenes pixeladas
+- Botón "enviar mensaje" pegado al footer no está centrado
+- Corrección ortografía menús del footer
+Por favor revisar, gracias!
+
